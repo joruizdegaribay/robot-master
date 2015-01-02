@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotMaster", "RobotMaster\RobotMaster.csproj", "{14110E17-18EC-469E-9832-F1F0719A773E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RbtApiDriver", "RbtDriver\RbtApiDriver.csproj", "{3CB6624B-1941-4BE6-AEA9-2F13F5C76201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robots", "Robots\Robots.csproj", "{42B409A2-38A0-4FFE-A1C2-9E253023758C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14110E17-18EC-469E-9832-F1F0719A773E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14110E17-18EC-469E-9832-F1F0719A773E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14110E17-18EC-469E-9832-F1F0719A773E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14110E17-18EC-469E-9832-F1F0719A773E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB6624B-1941-4BE6-AEA9-2F13F5C76201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB6624B-1941-4BE6-AEA9-2F13F5C76201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB6624B-1941-4BE6-AEA9-2F13F5C76201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB6624B-1941-4BE6-AEA9-2F13F5C76201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B409A2-38A0-4FFE-A1C2-9E253023758C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B409A2-38A0-4FFE-A1C2-9E253023758C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B409A2-38A0-4FFE-A1C2-9E253023758C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B409A2-38A0-4FFE-A1C2-9E253023758C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\bin\Debug\Robots.dll
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\bin\Debug\Robots.pdb
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\bin\Debug\RbtApiDriver.dll
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\bin\Debug\RbtApiDriver.pdb
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\obj\Debug\Robots.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\obj\Debug\Robots.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\obj\Debug\Robots.RobotPanel.resources
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\obj\Debug\Robots.Sabueso.SabuesoPanel.resources
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\obj\Debug\Robots.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\obj\Debug\Robots.dll
+C:\Users\Jonathan\Dropbox\Proyecto.RobotMaster\04.Desarrollo\Robots\obj\Debug\Robots.pdb
